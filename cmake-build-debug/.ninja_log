@@ -1,0 +1,12 @@
+# ninja log v5
+20	239	7435304963822059	CMakeFiles/main.dir/src/module_interface.c.obj	75f59cea5aff7505
+11	220	7435304963726846	CMakeFiles/main.dir/main.c.obj	a7e96bc52bc4f5d3
+16	185	7435304963314539	CMakeFiles/main.dir/src/at_command.c.obj	84b0a65d3e47a3fb
+84	153	7434245168235544	main.exe	2b9d252e7eaa0514
+36	1491	7435304976502944	CMakeFiles/main.dir/src/platform.c.obj	36dab7def8abac32
+1	59	7435411143250641	build.ninja	b478502ba81cb590
+30	152	7435304962971024	CMakeFiles/main.dir/src/at_command_config.c.obj	b566ecace759d3b0
+25	259	7435304964157543	CMakeFiles/main.dir/module/e36/e36_module.c.obj	507dbcf7609b38c9
+41	149	7435304963022667	CMakeFiles/main.dir/src/example.c.obj	b20fab986a8a3557
+46	241	7435304963822059	CMakeFiles/main.dir/src/queue.c.obj	7c97587895d583f6
+52	271	7435304964255665	CMakeFiles/main.dir/module/ec800m/ec800m_module.c.obj	597ae40a86a15691
